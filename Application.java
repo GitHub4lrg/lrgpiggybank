@@ -20,3 +20,9 @@ public class Application{
         }
     }
 }
+/*
+ * today's concepts:
+ * more about OOP, creating service and model classes
+ * writing constructors
+ * a little bit about unit testing
+ */
